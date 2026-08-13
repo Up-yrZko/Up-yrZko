@@ -48,3 +48,35 @@ I focus on creating web applications that not only provide precise experiences b
 </a>
 
 </div>
+
+## Core Tech Stacks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="70" alt="Kotlin">
+</p>
+
+---
+
+## Other Tech Stacks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=php" height="70" alt="PHP">
+</p>
+
+---
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="VS Code">
+  <img src="https://img.shields.io/badge/Antigravity-082026?style=for-the-badge&logoColor=white" height="40" alt="Antigravity">
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub">
+</p>
