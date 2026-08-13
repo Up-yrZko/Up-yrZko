@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E2,50:FF5938,100:97DDEB&height=220&section=header&text=Hi,%20I'm%20DWI%20WAHYU%20JATMIKO%20PUTRA&fontSize=46&fontColor=97DDEB&fontAlignY=45&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:97DDE8,50:134D80,100:082026&height=220&section=header&text=Hi,%20I'm%20DWI%20WAHYU%20JATMIKO%20PUTRA&fontSize=46&fontColor=97DDEB&fontAlignY=45&animation=fadeIn"
   width="100%"
 />
 
