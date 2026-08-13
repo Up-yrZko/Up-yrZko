@@ -25,30 +25,34 @@ I focus on creating web applications that not only provide precise experiences b
 
 <br>
 
-<div align="left">
+<div align="center">
 
 <a href="mailto:kooyessir@gmail.com">
-  <img src="https://img.shields.io/badge/kooyessir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/kooyessir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&height=30" height="30" alt="Email">
 </a>
 
-<a href="https://www.instagram.com/svmm1ko_/">
-  <img src="https://img.shields.io/badge/@svmm1ko_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+<a href="https://www.instagram.com/svmm1ko_/" target="_blank">
+  <img src="https://img.shields.io/badge/@svmm1ko_-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30" alt="Instagram">
+</a>
+
+<a href="https://www.tiktok.com/@k0freal" target="_blank">
+  <img src="https://img.shields.io/badge/@k0freal-000000?style=flat-square&logo=tiktok&logoColor=white" height="30" alt="TikTok">
 </a>
 
 <a href="https://www.linkedin.com/in/upyrzko/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/Up-yrZko">
-  <img src="https://img.shields.io/github/followers/Up-yrZko?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers">
+<a href="https://github.com/Up-yrZko" target="_blank">
+  <img src="https://img.shields.io/badge/Up--yrZko-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub">
 </a>
 
-<a href="https://komarev.com/ghpvc/?username=Up-yrZko">
-  <img src="https://komarev.com/ghpvc/?username=Up-yrZko&label=Profile%20Views&color=97DDEB&style=flat-square" alt="Profile Views">
+<a href="https://github.com/Up-yrZko" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Up-yrZko&label=Profile%20Views&color=97DDEB&style=flat-square" height="30" alt="Profile Views">
 </a>
 
-<a href="https://www.tiktok.com/@k0freal">
-  <img src="https://img.shields.io/badge/@k0freal-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+<a href="https://github.com/Up-yrZko?tab=followers" target="_blank">
+  <img src="https://img.shields.io/github/followers/Up-yrZko?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub Followers">
 </a>
 
 </div>
@@ -81,6 +85,6 @@ I focus on creating web applications that not only provide precise experiences b
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="VS Code">
-  <img src="https://raw.githubusercontent.com/Up-yrZko/Up-yrZko/main/antigravity.png" height="70" alt="Antigravity">
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" alt="XAMPP">
   <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub">
 </p>
