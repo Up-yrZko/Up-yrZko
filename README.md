@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Up-yrZko/Up-yrZko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm [DWI WAHYU JATMIKO PUTRA]
 
-Here are some ideas to get you started:
+### A Web & Mobile Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  A Software Engineering student at SMK Jakarta Pusat 1 with a keen interest in software development, UI/UX design, and technology. Possesses foundational skills in web and mobile application development and is experienced in using GitHub for project collaboration. Active in organizational activities, fostering strong teamwork, communication, and effective time management skills. Eager to learn, grow, and make a significant contribution during the Field Work Practice (PKL) program.
+</p>
+
+<p>
+  <a href="kooyessir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-your.email%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/svmm1ko">
+    <img src="https://img.shields.io/badge/Instagram-@yourusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/Up-yrZko">
+    <img src="https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```
+I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
