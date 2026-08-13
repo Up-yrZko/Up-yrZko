@@ -35,6 +35,10 @@ I focus on creating web applications that not only provide precise experiences b
   <img src="https://img.shields.io/badge/@svmm1ko_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="https://www.linkedin.com/in/upyrzko/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 <a href="https://github.com/Up-yrZko">
   <img src="https://img.shields.io/github/followers/Up-yrZko?label=GitHub%20Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers">
 </a>
