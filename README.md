@@ -77,6 +77,6 @@ I focus on creating web applications that not only provide precise experiences b
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="VS Code">
-  <img src="./assets/antigravity.png" height="70" alt="Antigravity">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Google_Antigravity_Logo.svg" height="70" alt="Antigravity">
   <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub">
 </p>
