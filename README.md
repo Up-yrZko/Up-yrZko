@@ -6,7 +6,7 @@
 />
 
 <h2 style="color:#97DDEB; margin-top:-15px;">
-A Web Developer
+Web Developer
 </h2>
 
 </div>
